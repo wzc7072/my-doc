@@ -1,0 +1,55 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=1.8cm]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{titlesec}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlist[itemize]{leftmargin=1.2em, itemsep=2pt, topsep=2pt}
+\titleformat{\section}{\large\bfseries\color{black}}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{8pt}{6pt}
+
+\newcommand{\resumeItem}[1]{\item #1}
+\newcommand{\resumeHeading}[4]{
+  \textbf{#1} \hfill #2 \\
+  \textit{#3} \hfill \textit{#4}
+}
+
+\begin{document}
+
+{\LARGE \textbf{Alex Chen}} \\
+\vspace{4pt}
+Phone: +86 138-0000-0000 \quad|\quad Email: \href{mailto:alexchen@example.com}{alexchen@example.com} \quad|\quad Location: Shanghai \\
+GitHub: \href{https://github.com/yourname}{github.com/yourname}
+
+\section*{Summary}
+Backend engineer with 3+ years of experience in Java and distributed systems. Focused on clean architecture, reliability, and delivery speed.
+
+\section*{Experience}
+\resumeHeading{Example Technology Co., Ltd.}{Jul 2022 -- Present}{Backend Engineer}{Shanghai}
+\begin{itemize}
+  \resumeItem{Refactored order service APIs and reduced average response time by 35\%.}
+  \resumeItem{Built a CI/CD pipeline and improved release efficiency by 50\%.}
+  \resumeItem{Worked across product, frontend, and QA teams to reduce production defects.}
+\end{itemize}
+
+\section*{Projects}
+\resumeHeading{Internal Workflow Platform}{Mar 2023 -- Nov 2023}{Spring Boot, Vue, Redis}{Tech Lead}
+\begin{itemize}
+  \resumeItem{Designed role-based access control and configurable approval flows from scratch.}
+  \resumeItem{Introduced caching and async jobs, reducing key page load time by 40\%.}
+\end{itemize}
+
+\section*{Education}
+\resumeHeading{Example University}{Sep 2018 -- Jun 2022}{B.S. in Computer Science}{GPA: 3.6/4.0}
+
+\section*{Skills}
+\begin{itemize}
+  \resumeItem{Languages: Java, Python, SQL}
+  \resumeItem{Frameworks/Tools: Spring Boot, MyBatis, Git, Docker}
+  \resumeItem{Databases/Middleware: MySQL, Redis, RabbitMQ}
+\end{itemize}
+
+\end{document}
