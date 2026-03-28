@@ -67,7 +67,7 @@ CAT_PATTERN = [
     ".......BOOOOOOOOOOOOOOOOOB....",
     ".......BOOOOOOBBBBOOOOOOB.....",
     ".......BOOOOOOB..BOOOOOOB.....",
-    ".......BBBBBBB....BBBBBBB....",
+    ".......BBBBBBB....BBBBBBB.....",
 ]
 
 # 颜色映射
