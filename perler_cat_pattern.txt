@@ -1,0 +1,87 @@
+Perler Bead Pattern — Orange Maine Coon Cat
+======================================================================
+Grid size: 64 × 64  |  Total beads: 4096
+
+Color Key:
+  [g]  Dark Gray        Perler: Pewter          #2D2D2A  ×1679
+  [O]  Orange           Perler: Orange          #D26919  ×634
+  [o]  Light Orange     Perler: Cheddar         #EB9B37  ×600
+  [W]  White            Perler: White           #FAF6EE  ×484
+  [Y]  Cream            Perler: Cream           #F8D278  ×307
+  [K]  Black            Perler: Black           #0C0A08  ×118
+  [P]  Pink             Perler: Blush           #E4948A  ×94
+  [A]  Amber            Perler: Butterscotch    #B99B41  ×74
+  [G]  Lime Green       Perler: Kiwi Lime       #9BAF5A  ×60
+  [D]  Dark Brown       Perler: Dark Brown      #5A3214  ×18
+  [B]  Brown            Perler: Brown           #8C501E  ×16
+  [p]  Dark Pink        Perler: Salmon          #C35546  ×12
+
+Pattern (each character = 1 bead):
+
+   0         1         2         3         4         5         6   
+   0123456789012345678901234567890123456789012345678901234567890123
+   ----------------------------------------------------------------
+ 0|gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+ 1|gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+ 2|gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+ 3|gggggggggggggDggggggggggggggggggggggggggggggggggggDggggggggggggg
+ 4|ggggggggggggDODggggggggggggggggggggggggggggggggggDODgggggggggggg
+ 5|ggggggggggggOOOggggggggggggggggggggggggggggggggggOOOgggggggggggg
+ 6|ggggggggggggOPOgggggggggggggggggggggggggggggggggOOPOOggggggggggg
+ 7|gggggggggggOPPPOggggggggggggggggggggggggggggggggOOPOOggggggggggg
+ 8|ggggggggggOOPPPOOgggggggggggggggggggggggggggggggOPPPOggggggggggg
+ 9|ggggggggggOOPPPOOgggggggggggggggOggggggggggggggOPPPPPOgggggggggg
+10|ggggggggggOPPPPPOgggggggggOOOOOOOOOOOOOgggggggOOPPPPPOOggggggggg
+11|gggggggggOPPPPPPPOgggggOOOOOOOOOOOOOOOOOOOggggOOPPPPPOOggggggggg
+12|ggggggggOOPPPPPPPOOggOOOOOOOOOOOOOOOOOOOOOOOggOPPPPPPPOggggggggg
+13|ggggggggOOPPPPPPPOOOOOOOOOoooooooooooooOOOOOOOPPPPPPPPPOgggggggg
+14|ggggggggOPPPPPPPPPOOOOOOoooooDDoooDDoooooOOOOOOPPPPPPPPOOggggggg
+15|gggggggOOOOOOOOOOOOOOOooooDDDooDDDooDDoooooOOOOOOOOOOOOOOggggggg
+16|ggggggOOOOOOOOOOOOOOoooooooooooooooooooooooooOOOOOOOOOOOOggggggg
+17|ggggggOOOOOOOOOOOOOoooooooooooooooooooooooooooOOOOOOOOOOOOgggggg
+18|ggggggggggggggOOOOooooOOOOOOOOOOOOOOOOOOOOoooooOOOOggggggggggggg
+19|gggggggggggggOOOOoooooooooooooooooooooooooooooooOOOOgggggggggggg
+20|ggggggggggggOOOOooooooOOOOOOOOOOOOOOOOOOOOoooooooOOOOggggggggggg
+21|ggggggggggggOOOoooooooooooooooooooooooooooooooooooOOOggggggggggg
+22|gggggggggggOOOOoooooooOOOOOOOOOOOOOOOOOOOOooooooooOOOOgggggggggg
+23|gggggggggggOOOoooooooooooooooooooooooooooooooooooooOOOgggggggggg
+24|ggggggggggOOOooOOOOOOOOOOOOOoooooooooOOOOOOOOOOOOOooOOOggggggggg
+25|ggggggggggOOOooooooooKoooooooooooooooooooooKooooooooOOOggggggggg
+26|gggggggggOOOOooooKKKKKKKKKoooooooooooooKKKKKKKKKooooOOOOgggggggg
+27|gggggggggOOOoooKKAAAAGAAAAKKoooooooooKKAAAAGAAAAKKoooOOOgggggggg
+28|gggggggggOOOooKAAWGGKKKGGAAAKoooooooKAAWGGKKKGGAAAKooOOOgggggggg
+29|ggggggggOOOoooKAAGGGKKKGGGAAKoooooooKAAGGGKKKGGGAAKoooOOOggggggg
+30|ggggggggOOOooKKAGGGGKKKGGGGAKKoooooKKAGGGGKKKGGGGAKKooOOOggggggg
+31|ggggggggOOOoooKAAGGGKKKGGGAAKoooooooKAAGGGKKKGGGAAKoooOOOggggggg
+32|ggggggggOOOOOoKAAAGGKKKGGAAAKoooooooKAAAGGKKKGGAAAKoOOOOOggggggg
+33|ggggggggOOOOOooKKAAAAGAAAAKKoooooooooKKAAAAGAAAAKKooOOOOOggggggg
+34|ggggggggOOOOOooooKKKKKKKKKWWWoooooooWWWKKKKKKKKKooooOOOOOggggggg
+35|ggggggggOOOOOooooooWWKWWWWWWWWoooooWWWWWWWWKWWooooooOOOOOggggggg
+36|gggggggOOOOOoooooWWWWWWWWWWWWWWWpWWWWWWWWWWWWWWWoooooOOOOOgggggg
+37|ggggggggOOOOOooooWWWWWWWWWWWWWWpppWWWWWWWWWWWWWWooooOOOOOggggggg
+38|ggggggggOOOOOoooWWWWWWWWWWWWWWpppppWWWWWWWWWWWWWWoooOOOOOggggggg
+39|ggggggggOOOOOoooWWWWWWWWWWWWWpPPPPppWWWWWWWWWWWWWoooOOOOOggggggg
+40|ggggggggOOOOOoooWWWWWWWWWWWWWWWWPWWWWWWWWWWWWWWWWoooOOOOOggggggg
+41|ggggggggOOOOOooWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWooOOOOOggggggg
+42|ggggggggOOOOOoooWWWWWWWWWWWWWWWWKKWWWWWWWWWWWWWWWoooOOOOOggggggg
+43|ggggggggOOOOOOooWWWWWWWWWWWWKKKWWWKKKWWWWWWWWWWWWooOOOOOOggggggg
+44|gggggggggOOOOOooWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWooOOOOOgggggggg
+45|gggggggggOOOOOOooWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWooOOOOOOgggggggg
+46|gggggggggOOOOOOooWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWooOOOOOOgggggggg
+47|ggggggggggOOOOOooooWWWWWWWWWWWWWWWWWWWWWWWWWWWoooOOOOOOggggggggg
+48|ggggggggggOOOOOoooooWWWWWWWWWWWWWWWWWWWWWWWWWooooOOOOOOggggggggg
+49|gggggggggggOOOOoooooooooWWWWWWWWWWWWWWWWWooooooooOOOOOgggggggggg
+50|gggggggggggOOOOoooooooooWWWWWWWWWWWWWWWWWoooooooooOOOOgggggggggg
+51|ggggggggggggOOOoooooooYYYWWWWWWWWWWWWWWWYYYoooooooOOOggggggggggg
+52|ggggggggggggOOOOooooYYYYYYWWWWWWWWWWWWWYYYYYYooooOOOOggggggggggg
+53|gggggggggggggOOOOooYYYYYYYYYWWWWWWWWWYYYYYYYYYooOOOOgggggggggggg
+54|ggggggggggggggOOOOYYYYYYYYYYYYYYWYYYYYYYYYYYYYYOOOOggggggggggggg
+55|gggggggggggggggOOYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYOOgggggggggggggg
+56|ggggggggggggggggOYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYOggggggggggggggg
+57|ggggggggggggggggYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYggggggggggggggg
+58|gggggggggggggggggYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYgggggggggggggggg
+59|ggggggggggggggoooYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYoogggggggggggggg
+60|ggggggggggggggooooYYYYYYYYYYBBBBYYYYYYYYYYYYYYYooogggggggggggggg
+61|ggggggggggggggoooooYYYYYYYYYBBBBYYYYYYYYYYYYYYoooogggggggggggggg
+62|ggggggggggggggooooooYYYYYYYYBBBBYYYYYYYYYYYYYooooogggggggggggggg
+63|ggggggggggggggooooooOOYYYYYYBBBBYYYYYYYYYYYOoooooogggggggggggggg
